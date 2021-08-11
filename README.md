@@ -1,2 +1,3 @@
 # Data_science
-All types of works
+
+### Here are some small proyects that I have been working on to prove my Data Science Skills
